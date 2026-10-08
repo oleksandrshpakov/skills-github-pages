@@ -10,8 +10,8 @@ some text
 
 ### Test3 header
 1. some text
-2. some text
-3. some text
+1. some text
+1. some text
 
 **What may be lost:**
 - Exact wording of earlier messages.
